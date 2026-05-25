@@ -1,9 +1,3 @@
-Aqui está o arquivo `README.md` completo, estruturado exatamente sob as regras do seu professor e mapeado para o código final com a leitura híbrida e as nomenclaturas dos slides (`UF`, `Edge`, `PriorityQueue`).
-
-Basta copiar o conteúdo abaixo e salvar como `README.md` na raiz da pasta `T1/`.
-
----
-
 ```markdown
 # Trabalho 1: Árvore Geradora Mínima (MST) — Arctic Network
 
