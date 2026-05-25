@@ -137,6 +137,4 @@ Podemos interromper a execução do Kruskal assim que restarem **exatamente $S$ 
 
 O código foi submetido na plataforma oficial do problema e obteve o veredito de **Accepted**.
 
-```
-
-```
+![Resultado Accepted no Kattis](evidencias/accepted.png)
